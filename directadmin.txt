@@ -1,0 +1,45 @@
+103.97.125.182	caiwindao.tk		whm
+root		N.....@123
+caiwindao	N.....@123
+caiappdao.com	caiappdao-pass		N.....@123
+	
+103.97.125.158	caiwindao.cf		da
+admin		N......@123
+
+103.97.125.190	caiwindao.ga		da123host
+admin		T...@123
+caijoomla	T...@123		jl.caiwindao.ga
+
+------------DIRECTADMIN-----------------------
+----DB1
+db name		tonadrsus_wpgavn
+ad user		tonadrsus_ton
+pass		Ton@123
+-----DB2
+db name		caiwinnet_wp
+ad user		caiwinnet_ton
+pass		Ton@123
+----DB3
+db name		cddcawinga_web
+ad user		cddcawinga_ton
+pass		Ton@123
+----DB4
+db name		wpcaiwinga_wp
+ad user		wpcaiwinga_ton
+pass		Ton@123
+----DB5
+db name		caidatda_wordpress
+ad user		caidatda_tonwp
+pass		Danton@123
+----DB6
+db name		wpga_wordpress
+ad user		wpga_tonwp
+pass		Ton@123
+----DB7
+db name		wordpress
+ad user		ton
+pass		Danton@123
+-----------------------------------------------
+----User
+user		cawincf
+pass		Nguyendanton@123
